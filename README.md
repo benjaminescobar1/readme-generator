@@ -32,3 +32,11 @@
   ## Questions:
   Any questions reach out to bescobar1992@gmail.com or benjaminescobar1 on github.
 
+  ## Video link
+  https://drive.google.com/file/d/1fouDzeFdqaHrAR0v6fgO86hqmgTUAN4y/view
+
+  ## Screenshot of README file generated
+  
+  ![readme generator](https://github.com/benjaminescobar1/readme-generator/assets/135399618/f7e51ce1-8a0f-48e9-970f-fd7009ed4405)
+
+
