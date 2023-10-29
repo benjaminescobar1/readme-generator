@@ -5,7 +5,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
+  - [Contributions](#Contributions)
   - [Tests](#tests)
   - [Questions](#questions)
 
@@ -17,7 +17,7 @@
   we need to open terminal, run npm install inquirer, then run node index.js. This will give the user a series of questions to answer that'll be used when the readme file is generated.
 
   ## Usage:
-  The usage of this project is to use the application created to generate a README file.
+  The usage of this project is to use the application created to generate a README file
 
   ## Contributions:
   Contributions used was starter code from challenge 2 from lesson 9.
